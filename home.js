@@ -3,5 +3,5 @@
 // step:1 
 Document.getElementById('button-add-money')
     .addEventListener('click', function(){
-        console.log('miney add btn clicked');
+        console.log('money add btn clicked');
     });

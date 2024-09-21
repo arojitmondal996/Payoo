@@ -25,8 +25,7 @@ document.getElementById('button-add-money')
             console.log('adding money to your account');
 
             // step: 4 get the current balance
-            const balance = document.getElementById('account-balance');
-            innerText;
+            const balance = document.getElementById('account-balance').innerText;
 
             // step:5 add addMoneyInput with balance
             const addMoneyNumber = parseFloat(addMoneyInput);
